@@ -34,6 +34,8 @@
  */
 namespace PDFMerger;
 
+use TCPDI;
+
 class PDFMerger
 {
 	private $_files;	//['form.pdf']  ["1,2,4, 5-19"]
