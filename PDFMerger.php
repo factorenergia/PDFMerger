@@ -35,6 +35,7 @@
 namespace PDFMerger;
 
 use TCPDI;
+use yii\console\Exception;
 
 class PDFMerger
 {
